@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/",
+    "label": "Overview Dashboard",
+    "description": "Executive metrics, activity trends, severity distribution, and recent findings"
+  },
+  {
+    "path": "/live-dns",
+    "label": "Live DNS Events",
+    "description": "Real-time searchable feed of normalized DNS queries and responses"
+  },
+  {
+    "path": "/alerts",
+    "label": "Threat Alerts",
+    "description": "Correlated security alerts, risk scores, rule matches, and evidence"
+  },
+  {
+    "path": "/domains",
+    "label": "Domain Explorer",
+    "description": "Detailed domain investigation, query history, entropy, and reputation status"
+  },
+  {
+    "path": "/clients",
+    "label": "Client Inventory",
+    "description": "Monitored client endpoints, activity volume, and observed threat profiles"
+  },
+  {
+    "path": "/analytics",
+    "label": "Analytics & Reporting",
+    "description": "Historical volume, anomaly metrics, NXDOMAIN ratios, and exportable reports"
+  },
+  {
+    "path": "/rules",
+    "label": "Detection Rules",
+    "description": "Inspect and tune explainable heuristic detection rules and thresholds"
+  },
+  {
+    "path": "/sources",
+    "label": "Data Sources & Ingestion",
+    "description": "Manage authorized event sources, file imports (CSV/JSON), and CoreDNS logs"
+  },
+  {
+    "path": "/settings",
+    "label": "Settings & Security",
+    "description": "System settings, retention configuration, audit log viewer, and observer status"
+  }
+]

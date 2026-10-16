@@ -1,0 +1,29 @@
+[
+  {
+    "observed_at": "2026-10-15T08:00:00Z",
+    "client_ip": "192.168.1.42",
+    "client_name": "dev-laptop-09",
+    "domain": "google.com",
+    "record_type": "A",
+    "response_code": "NOERROR",
+    "protocol": "UDP"
+  },
+  {
+    "observed_at": "2026-10-15T08:00:15Z",
+    "client_ip": "192.168.1.105",
+    "client_name": "workstation-04.corp",
+    "domain": "dGhpcyBpcyBhIHRlc3QgdHVubmVsIGV4ZmlsdHJhdGlvbiBwYXlsb2Fk.tunnel.c2server.org",
+    "record_type": "TXT",
+    "response_code": "NOERROR",
+    "protocol": "UDP"
+  },
+  {
+    "observed_at": "2026-10-15T08:00:20Z",
+    "client_ip": "192.168.1.180",
+    "client_name": "guest-device-12",
+    "domain": "malicious-c2-traffic.ru",
+    "record_type": "A",
+    "response_code": "NXDOMAIN",
+    "protocol": "UDP"
+  }
+]

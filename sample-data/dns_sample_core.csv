@@ -1,0 +1,12 @@
+timestamp,client_ip,client_name,domain,record_type,response_code,response_details,protocol
+2026-10-15T08:00:00Z,192.168.1.42,dev-laptop-09,google.com,A,NOERROR,142.250.190.46,UDP
+2026-10-15T08:00:05Z,192.168.1.42,dev-laptop-09,github.com,A,NOERROR,140.82.121.3,UDP
+2026-10-15T08:00:10Z,192.168.1.105,workstation-04.corp,cloudflare.com,A,NOERROR,104.16.132.229,UDP
+2026-10-15T08:00:15Z,192.168.1.105,workstation-04.corp,dGhpcyBpcyBhIHRlc3QgdHVubmVsIGV4ZmlsdHJhdGlvbiBwYXlsb2Fk.tunnel.c2server.org,TXT,NOERROR,v=spf1,UDP
+2026-10-15T08:00:20Z,192.168.1.180,guest-device-12,malicious-c2-traffic.ru,A,NXDOMAIN,,UDP
+2026-10-15T08:00:25Z,192.168.1.180,guest-device-12,random-notfound-host-01.biz,A,NXDOMAIN,,UDP
+2026-10-15T08:00:30Z,192.168.1.180,guest-device-12,random-notfound-host-02.biz,A,NXDOMAIN,,UDP
+2026-10-15T08:00:35Z,192.168.1.180,guest-device-12,random-notfound-host-03.biz,A,NXDOMAIN,,UDP
+2026-10-15T08:00:40Z,192.168.1.180,guest-device-12,random-notfound-host-04.biz,A,NXDOMAIN,,UDP
+2026-10-15T08:00:45Z,192.168.1.180,guest-device-12,random-notfound-host-05.biz,A,NXDOMAIN,,UDP
+2026-10-15T08:01:00Z,10.0.0.15,app-server-db,internal.database.aws.local,A,NOERROR,10.0.4.52,UDP
