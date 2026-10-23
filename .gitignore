@@ -33,3 +33,16 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local reference and development notes
+/MD files/
+/IMPLEMENTATION_PLAN.md
+/IMPLEMENTATION_PROGRESS.md
+/PROJECT_STATUS.md
+/PROJECT_FILE_LIST.txt
+
+# Local databases and generated caches
+*.db
+*.sqlite3
+.pytest_cache/
+.ruff_cache/
